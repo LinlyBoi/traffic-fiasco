@@ -1,27 +1,12 @@
 # TrafficTickets
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
+## Description
+This is a project that provides a system to register and keep track of traffic violations/tickets issued by officers and automated radars 
+Data is stored based on the following schema
+- [ ] Add schema
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Features
+1. All the relevant info for each registered driver,vehicle and officer can be queried in order to facilitate creating reports and statistics based on any given factor.
+2. Edit existing tickets by an admin if there was human error or a false positive from a radar
+3. Logged in officers can issue tickets directly from their dashboard
+4. Drivers can see all unpaid (and paid off) tickets in their dashboard including tickets issued to their vehicle only (in the case of parking/someone else driving)
