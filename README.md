@@ -10,3 +10,10 @@ Data is stored based on the following schema
 2. Edit existing tickets by an admin if there was human error or a false positive from a radar
 3. Logged in officers can issue tickets directly from their dashboard
 4. Drivers can see all unpaid (and paid off) tickets in their dashboard including tickets issued to their vehicle only (in the case of parking/someone else driving)
+
+
+## Todo 
+- [ ] Schema
+- [ ] Deploy database
+- [ ] Connect database to basic frontend
+- [ ] Add all functionality to frontend --> [Features](#Features)
