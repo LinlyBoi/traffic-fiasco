@@ -17,3 +17,5 @@ Data is stored based on the following schema
 - [ ] Deploy database
 - [ ] Connect database to basic frontend
 - [ ] Add all functionality to frontend from [Features](#Features)
+- [ ] Make frontend look good with css and stuff
+- [ ] Docker compose and k8s deployment files 
