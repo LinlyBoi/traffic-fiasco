@@ -16,4 +16,4 @@ Data is stored based on the following schema
 - [ ] Schema
 - [ ] Deploy database
 - [ ] Connect database to basic frontend
-- [ ] Add all functionality to frontend -> [Features](#Features)
+- [ ] Add all functionality to frontend from [Features](#Features)
